@@ -1,5 +1,9 @@
 # simplesBLOG
 
+## Usando: codesandbox
+
+https://8ceuv.sse.codesandbox.io/
+
 ## Build Setup
 
 ```bash
